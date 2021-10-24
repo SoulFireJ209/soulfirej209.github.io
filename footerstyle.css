@@ -1,0 +1,14 @@
+#footer {
+    background: #1da4ed;
+    width: auto;
+    height: 52px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#text {
+    line-height: 52px;
+    color: white;
+}
