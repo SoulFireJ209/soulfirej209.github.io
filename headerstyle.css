@@ -36,6 +36,9 @@
 .topnav a.active {
     color: #221d23;
 }
+.active {
+  color: #221d23;
+}
 /* Dropdown Button */
 .dropbtn {
     color: white;
